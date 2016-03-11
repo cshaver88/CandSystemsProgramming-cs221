@@ -1,0 +1,50 @@
+Script started on Tue Dec  1 17:22:05 2015
+[?1034hbash-3.2$ exitsh Q1.sh .txt5 alltime.txt1[C[C[C[C[C[C[C[C[C[C[C[C
+ Gone with the Wind
+bash-3.2$ sh Q1.sh 1 alltime.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt5.txt .txtR.txt
+ Beverly Hills Cop
+bash-3.2$ sh Q1.sh 5 R.txt[1P.txt[1P.txt[1P.txt[1P.txt .txt1.txt0.txt .txtG.txt
+ Ratatouille
+bash-3.2$ sh Q1.sh 10 G.txt[1P G.txt5 G.txt[CPG.txt
+ Shrek
+bash-3.2$ sh Q1.sh 15 PG.txt[1P PG.txt[1P PG.txt2 PG.txt0 PG.txt[C[C[C-.txt1.txt3.txt
+ The Lord of the Rings: The Fellowship of the Ring
+bash-3.2$ sh Q1.sh 20 PG-13.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K2.sh -s MGM -f PG.txt
+78.9382
+bash-3.2$ sh Q2.sh -s MGM -f PG.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ky 1980 -f G.txt
+30.9546
+bash-3.2$ sh Q2.sh -y 1980 -f G.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ks WB -y 1960 -f PG-13.txt
+awk: division by zero
+ input record number 32, file 
+ source line number 1
+bash-3.2$ sh Q2.sh
+ You have not entered a filename, this is required.
+bash-3.2$ sh Q2.sh[K[K[K[K3.txt[K[K[Ksh 1
+Average gross for the top 1 ranked films in the G.txt category is: 422.784
+Average gross for the top 1 ranked films in the R.txt category is: 370.783
+Average gross for the top 1 ranked films in the PG.txt category is: 474.525
+Average gross for the top 1 ranked films in the PG-13.txt category is: 760.508
+bash-3.2$ sh Q3.sh 1[K5
+Average gross for the top 5 ranked films in the G.txt category is: 335.846
+Average gross for the top 5 ranked films in the R.txt category is: 283.781
+Average gross for the top 5 ranked films in the PG.txt category is: 429.21
+Average gross for the top 5 ranked films in the PG-13.txt category is: 555.686
+bash-3.2$ sh Q3.sh 5[K10
+Average gross for the top 10 ranked films in the G.txt category is: 278.988
+Average gross for the top 10 ranked films in the R.txt category is: 249.307
+Average gross for the top 10 ranked films in the PG.txt category is: 370.829
+Average gross for the top 10 ranked films in the PG-13.txt category is: 469.399
+bash-3.2$ sh Q3.sh 10[K5
+Average gross for the top 15 ranked films in the G.txt category is: 249.296
+Average gross for the top 15 ranked films in the R.txt category is: 225.43
+Average gross for the top 15 ranked films in the PG.txt category is: 342.46
+Average gross for the top 15 ranked films in the PG-13.txt category is: 430.408
+bash-3.2$ sh Q3.sh 15[K[K20
+Average gross for the top 20 ranked films in the G.txt category is: 226.57
+Average gross for the top 20 ranked films in the R.txt category is: 210.125
+Average gross for the top 20 ranked films in the PG.txt category is: 321.595
+Average gross for the top 20 ranked films in the PG-13.txt category is: 402.806
+bash-3.2$ exit
+exit
+
+Script done on Tue Dec  1 17:24:53 2015

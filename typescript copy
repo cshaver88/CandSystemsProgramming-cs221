@@ -1,0 +1,28 @@
+Script started on Wed Dec 16 12:03:46 2015
+[?1034hbash-3.2$ p[Kexit[1P./lgcc -g -Wall -o l llist.c[C[C[C[C[C[C[C[C[C[C[12Psh replace.sh[1Pmovies.sh[C[C[C[C[C[C[C[C[C[C./p[Kgcc -g -Wall -o p palindromes.c
+[1mpalindromes.c:24:1: [0m[0;1;35mwarning: [0m[1mcontrol may reach end of non-void function
+      [-Wreturn-type][0m
+}
+[0;1;32m^
+[0m1 warning generated.
+bash-3.2$ ./p
+radar is a palindrome.
+hello is not a palindrome.
+a man a plan a canal panama is not a palindrome.
+a mana plan is not a palindrome,
+bash-3.2$ ./pgcc -g -Wall -o p palindromes.c[C[C[C[C[C[C[C[C[C[Cexit[K[1P./lgcc -g -Wall -o l llist.c[C[C[C[C[C[C[C[C[C[C[12Psh replace.sh[1Pmovies.sh
+bash-3.2$ sh movies.sh[C[C[C[C[C[C[C[C[C[C./p[Kgcc -g -Wall -o p palindromes.c[C[C[C[C[C[C[C[C[C[Cexit[K[1P./lgcc -g -Wall -o l llist.c[C[C[C[C[C[C[C[C[C[C[12Psh replace.sh
+bash-3.2$ sh replace.sh[1Pmovies.sh[C[C[C[C[C[C[C[C[C[C./p[Kgcc -g -Wall -o p palindromes.c[C[C[C[C[C[C[C[C[C[Cexit[Kgcc -g -Wall -o p palindromes.c[C[C[C[C[C[C[C[C[C[Cexit[K[1P./lgcc -g -Wall -o l llist.c
+bash-3.2$ ./l
+insert 10
+list: 10, 
+insert 5
+list: 10, 
+insert 7
+list: 10, 
+insert 20
+list: 10, 
+bash-3.2$ exit
+exit
+
+Script done on Wed Dec 16 12:04:16 2015

@@ -1,0 +1,24 @@
+Cayla Shaver 
+CS 221
+Assignment 2
+
+
+
+1. x = 843 base 10 
+   x = 0011 0100 1011 base 2
+
+   y = 654 base 10
+   y = 0010 1000 1110 base 2
+
+
+   x & y = 0010 0000 1010 base 2
+   x & y = 522 base 10
+
+   x | y = 0011 1100 1111 base 2
+   x | y = 975 base 10
+
+   x ^ y = 0001 1100 0101 base 2
+   x ^ y = 453 base 10
+
+   ~ x = 0000 1011 0100 base 2
+   ~ x = 180 base 10

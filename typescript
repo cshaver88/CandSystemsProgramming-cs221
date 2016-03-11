@@ -1,0 +1,33 @@
+Script started on Fri Oct 30 17:25:19 2015
+[?1034hbash-3.2$ gcc -std=c99 date.c -o d
+bash-3.2$ ./d
+Enter a date XX-XX-XXXX or XX/XX/XXXX:  
+4.17.1999
+Invalid input.
+bash-3.2$ ./d
+Enter a date XX-XX-XXXX or XX/XX/XXXX:  
+(3) 27-1998
+Invalid input.
+bash-3.2$ ./d
+Enter a date XX-XX-XXXX or XX/XX/XXXX:  
+5-17-2008
+May 17, 2008
+bash-3.2$ ./d
+Enter a date XX-XX-XXXX or XX/XX/XXXX:  
+4/7/1999
+April 7, 1999
+bash-3.2$ ./d
+Enter a date XX-XX-XXXX or XX/XX/XXXX:  
+March 7 2015
+Invalid input.
+bash-3.2$ ./dgcc -std=c99 date.c -o d[C[C[C[C[C[C[C[C[C[C[9Pmore input.txt [C[C[C[C[C[C[C[C[C[Cgcc -std=c99 date.c -o d[K[K[K[K[K[K[K[K[K[K[Kphones_file.c -o p
+bash-3.2$ ./p
+No file names provided!
+bash-3.2$ ./p input.c
+This input file doesn't exist!
+bash-3.2$ ./p input.c[Ktxt
+bash-3.2$ ./p input.txt output.c
+bash-3.2$ exit
+exit
+
+Script done on Fri Oct 30 17:27:34 2015

@@ -1,0 +1,16 @@
+Script started on Wed Aug 26 16:14:52 2015
+?1034hbash-3.2$ cc MyPortfolio.c
+bash-3.2$ ./a.out
+My name is Cayla Shaver
+The courses I have taken are :
+- Java
+- JavaCC
+- C
+- Appinventor
+- Groovy
+- Javascript
+- Python
+bash-3.2$ exit
+exit
+
+Script done on Wed Aug 26 16:15:16 2015

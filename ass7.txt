@@ -1,0 +1,91 @@
+/*
+ *	Cayla Shaver
+ */
+
+
+
+
+ 1. a)  Set the PATH variable so that it causes the shell to search the 	   following directories in order:
+			• /usr/local/bin 
+			• /usr/bin
+			• /bin
+			• /usr/sbin
+			• The bin directory in your home directory 
+			• The current working directory
+
+ 	PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:$HOME/bin:./"
+		export PATH
+
+	b)	If there is a file named doit in /usr/bin and another file with 
+		the same name in your /bin directory, which one will be executed? 
+		(Assume that you have execute permission for both files.)
+		
+	/usr/bin will be the folder from which the doit file will be executed.
+	
+	c)	If your PATH variable is not set to search the working directory, 
+		how can you execute a program located there?
+
+	./filename
+
+	d)	Which command can you use to add the directory /usr/games to 
+		the end of the list of directories in PATH?
+
+	export PATH=$PATH:/usr/games
+
+
+2. 	Given a file named phones.txt that contains a list of 
+	names and phone numbers,
+
+	a) 	Which command can you use to find the phone number for 
+		Ace Electronics;
+
+	grep "Ace Electronics” phones.txt
+
+	b)	Which command can you use to display the entire 
+		file in alphabetical order?
+
+	sort phones.txt
+
+	c)	Which command can you use to display the file 
+		without any adjacent duplicate lines?
+
+	uniq phones.txt
+
+3. 	Suppose a user belongs to a group that has all permissions on a file 
+	named jobsList, but the user, as the owner of the file, has no 
+	permissions.
+
+	a)	Describe which operations, if any, the user/owner can perform 
+		on jobsList.
+
+	All operations can be performed because the owner is in a group that is able to read, write, and execute from the group.
+
+	b)	Which command can change the permissions such that the 
+		user/owner has all permissions on the file?
+
+	chmod u=rwx jobsList
+
+	c)	Which command can change the permissions such that the 
+		user/owner has all permissions on the file while other 
+		members in the same group can only read jobsList?
+
+	chmod u=rwx,g=r jobsList
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
